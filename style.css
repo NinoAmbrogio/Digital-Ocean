@@ -1,1 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*-------------------Navigation---------------*/
+header{
+margin: 50px;
+    background-color: blue;
+display: inline-block;
+    
+}
 
+
+
+.navigation{
+    display: flex;
+    margin: 22px;
+    margin-left: 55px;
+    position: absolute;
+   
+   
+}
+#logo{
+
+    border-color: white;
+text-decoration: none;
+border-style: hidden;
+
+
+}
