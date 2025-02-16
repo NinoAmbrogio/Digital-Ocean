@@ -36,6 +36,28 @@ margin-left: 50px;
 outline: none;
 list-style: none;
 border: hidden;
-display: inline;
-align-items: baseline;
+display: flex;
+align-items: center;
+
+}
+.rightbar{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    margin-left: 450px;
+}
+.rightbar a{
+color: black;
+    text-decoration: none;
+    display: flex;
+    
+}
+
+.signup{
+    
+    display: flex;
+    color: black;
+    border: 3px solid rgb(26, 26, 170);
+    background-color: rgb(28, 28, 180);
+border-radius: 25px;
 }
